@@ -1,5 +1,5 @@
 
-package calculados;
+package calculadorados;
 
 import javax.swing.JOptionPane;
 
